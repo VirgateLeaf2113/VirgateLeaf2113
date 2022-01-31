@@ -1,0 +1,14 @@
+Thank you for using this program :)
+
+You need access to a domain with its password
+You will also need the domain administrators registration name (the name of the domain host
+This program will work at school or in an office.
+
+Another way to run this program is to open cmd prompt and type exactly this:
+
+shutdown -i
+
+
+Thank you for using this program and i hope you can use it.
+
+Many thanks, VirgateLeaf2113
